@@ -1,0 +1,53 @@
+\documentclass[titlepage]{article}
+\usepackage{graphicx}
+\usepackage[letterpaper, left=3cm, right=3cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage[utf8]{inputenc}%paquete para acentos
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{amscd}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage[spanish]{babel}
+\begin{document}
+\begin{titlepage}
+\centering
+{\includegraphics[width=0.16\textwidth]{UNAM (2).png}}\par}
+\vspace{1cm}
+\centering
+{\bfseries\LARGE UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO \par}
+\vspace{0.8cm}
+{\scshape\Large Facultad de Ciencias \par}
+\vspace{0.8cm}
+{\scshape\huge Ensayo del artículo: \par}
+\vspace{0.4cm}
+{\scshape\huge La INFORMACIÓN es PODER... sobre todo si está en una base de datos \par}
+\vspace{0.9cm}
+{\Large Equipo R2-Dato: Nombre \par}
+\vfill
+{\itshape\Large Manejo de datos \par}
+\vfill
+{\itshape\Large Profesor Gerardo Avilés Rosas \par}
+\vfill
+{\Large Fecha de entrega: 30 de noviembre del 2024\par}
+\vfill
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.045]{Datos.jpg}
+    \caption{Esic (2024) ¿Qué software de análisis de datos utilizan las empresas? https://www.esic.edu/rethink/tecnologia/software-analisis-de-datos-c}
+\end{figure}
+\end{titlepage}
+\begin{center}
+\rule{\textwidth}{0.4pt}
+\Large\textbf{Ensayo del artículo: \par}
+\vspace{0.3cm}
+\Large \textbf{La INFORMACIÓN es PODER... sobre todo si está en una base de datos }\\
+\end{center}
+\rule{\textwidth}{0.4pt}
+
+
+
+
+\end{document}
