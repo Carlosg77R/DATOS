@@ -38,7 +38,7 @@ AUTÓNOMA DE MÉXICO \par}
 \begin{figure}[h!]
     \centering
     \includegraphics[scale=0.25]{Data.png}
-    \caption{\Gamco (2020) Tipos de análisis que se realizan con Big Data https://gamco.es/tipos-de-analisis-realizan-con-big-data/}
+    \caption{Gamco (2020) Tipos de análisis que se realizan con Big Data https://gamco.es/tipos-de-analisis-realizan-con-big-data/}
 \end{figure}
 
 \end{titlepage}
@@ -51,6 +51,3 @@ AUTÓNOMA DE MÉXICO \par}
 \Large \textbf{La INFORMACIÓN es PODER... sobre todo si está en una base de datos }\\
 \end{center}
 \rule{\textwidth}{0.4pt}
-
-
-\end{document}
