@@ -52,7 +52,13 @@ AUTÓNOMA DE MÉXICO \par}
 \end{center}
 \rule{\textwidth}{0.4pt}
 
+\vspace{20pt}
 
+La información es poder, pues permite a individuos y colectividades tomar mejores decisiones en sus proyectos. 
+Dicha información consta de pequeños bloques llamados datos, mismos que son almacenados actualmente en computadoras. 
+Hoy en día todas las grandes empresas y buena parte de las medianas y pequeñas cuentan con bases de datos, para cuyo manejo es necesario una buena capacidad de almacenamiento, tolerancia a fallas, seguridad y protección de los datos, además de servicio técnico. 
+En lo que a las DBMS respecta, Las compañías lideres son Oracle, con su DBMS del mismo nombre; IBM, con DB2, y Microsoft, con SQL Server. 
+Las bases de datos se dividen en transaccionales (empleadas para la operación de organizaciones) y analíticas (empleadas para la toma de decisiones). 
 
 
 \end{document}
